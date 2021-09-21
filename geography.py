@@ -2,7 +2,7 @@
 
 #Uploaded by 39l on github: https://github.com/39l
 #Thank you for downloading Geography Game for the Web!
-#You can do whatever you want to this, copy it and put it on the App Store, I don't car :D
+#You can do whatever you want this.
 #NOTE#
 #THIS IS ONLY THE CONSOLE VERSION OF THE GAME, NOT THE FULL WEB VERSION!
 
