@@ -293,6 +293,5 @@ while my_timer > 0:
     print('\033[0m' + "          - Play -           ")
     print("          - Help -           ")
     print("          - Quit -           ")
-    print("\x1B[3m       Made by Rick :D        \x1B[0m\n")
     title_screen_selections()
     time.sleep(2)
